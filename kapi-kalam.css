@@ -193,7 +193,7 @@
 		display: grid;
 		padding-top: 10vh;
 		grid-template-columns: repeat(5,1fr);
-		grid-template-rows: 1fr 1fr 0fr 1fr 0.5fr 0fr 1.1fr 0.7fr 0.5fr 0.5fr;
+		grid-template-rows: 1fr 1fr 0fr 1fr 0.5fr 0fr 1.4fr 0.7fr 0.5fr 0.5fr;
 		grid-row-gap: 2em;
 		/*grid-column-gap: 1em;*/
 		align-items:center;
